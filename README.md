@@ -1,2 +1,2 @@
-# SkillMingle 
-![SkillMingle](Media/animated_banner.gif)
+# Skill Mingle 
+![Skill Mingle](Media/animated_banner.gif)
