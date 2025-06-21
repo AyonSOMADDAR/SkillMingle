@@ -1,2 +1,3 @@
 # SkillMingle 
-(Media/animated_banner.gif)
+![Skill Mingle](Media/animated_banner.gif)
+![Flowchart](Documentation/Workflow.gif)
