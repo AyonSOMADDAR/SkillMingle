@@ -1,2 +1,2 @@
 # SkillMingle 
-(Media/animated_banner.gif)
+[(Media/animated_banner.gif)]
